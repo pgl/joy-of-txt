@@ -1,4 +1,4 @@
-# The Joy of TX
+# The Joy of TXT
 
 Various files related to some investigation into TXT records. Article first published on RIPE Labs:
 
